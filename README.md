@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Support Engineer at Microsoft and as a Video & Data Analyst at Anadia FC SAD.<br>🤝 I’m looking to expand my knowledge on the Data Analysis and Science areas.<br>🌱 I’m currently learning coding and data viz skills.<br>💬 Ask me about anything!
+🔭 I’m currently working as a Support Engineer at Microsoft and as a Video & Data Analyst at Anadia FC.<br>🤝 I’m looking to expand my knowledge on the Data Analysis and Science areas.<br>🌱 I’m currently learning coding and data viz skills.<br>💬 Ask me about anything!
 
 
 ## 🌐 Socials:
